@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "json-server --watch news.json --port 3333"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,140 @@
+{
+    "detach": [
+        {
+            "id": 1,
+            "image": "https://user-images.githubusercontent.com/12499627/145676818-3d64acac-25aa-4ec7-b4ad-3e02a5fede8f.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": false
+        },
+        {
+            "id": 2,
+            "image": "https://user-images.githubusercontent.com/12499627/145676866-8646b358-71fd-4d5f-b1a2-25df0ff126cf.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": true,
+            "publicity": false
+        },
+        {
+            "id": 3,
+            "image": "https://user-images.githubusercontent.com/12499627/145676867-672bfc10-e87f-4079-a7de-9a75ca90ff57.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": false
+        }
+    ],
+    "informations": [
+        {
+            "id": 4,
+            "image": "https://user-images.githubusercontent.com/12499627/145676869-def2da49-0af8-4972-a557-dc8afc492cf7.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": true,
+            "publicity": "https://user-images.githubusercontent.com/12499627/145676858-647757c7-c390-4771-bb4e-96690ebb9566.png"
+        },
+        {
+            "id": 5,
+            "image": "https://user-images.githubusercontent.com/12499627/145676859-2935c9b2-e760-44c5-8400-34b7e0676bc7.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": "https://user-images.githubusercontent.com/12499627/145678198-40b8cc7e-aea9-4c3e-96a9-3b4eb625ec9f.png"
+        },
+        {
+            "id": 6,
+            "image": "https://user-images.githubusercontent.com/12499627/145676863-e0574227-37ab-414e-8362-08037ddacbf3.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": "https://user-images.githubusercontent.com/12499627/145676858-647757c7-c390-4771-bb4e-96690ebb9566.png"
+        },
+        {
+            "id": 7,
+            "image": "https://user-images.githubusercontent.com/12499627/145676865-552b9036-e559-4ca7-8297-2f052e4942e5.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": null
+        },
+        {
+            "id": 15,
+            "image": "https://user-images.githubusercontent.com/12499627/145676865-552b9036-e559-4ca7-8297-2f052e4942e5.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": "https://user-images.githubusercontent.com/12499627/145678198-40b8cc7e-aea9-4c3e-96a9-3b4eb625ec9f.png"
+        },
+        {
+            "id": 16,
+            "image": "https://user-images.githubusercontent.com/12499627/145676869-def2da49-0af8-4972-a557-dc8afc492cf7.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": "https://user-images.githubusercontent.com/12499627/145676858-647757c7-c390-4771-bb4e-96690ebb9566.png"
+        },
+        {
+            "id": 17,
+            "image": "https://user-images.githubusercontent.com/12499627/145676865-552b9036-e559-4ca7-8297-2f052e4942e5.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": "https://user-images.githubusercontent.com/12499627/145678198-40b8cc7e-aea9-4c3e-96a9-3b4eb625ec9f.png"
+        },
+        {
+            "id": 18,
+            "image": "https://user-images.githubusercontent.com/12499627/145676818-3d64acac-25aa-4ec7-b4ad-3e02a5fede8f.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": null
+        },
+        {
+            "id": 19,
+            "image": "https://user-images.githubusercontent.com/12499627/145676866-8646b358-71fd-4d5f-b1a2-25df0ff126cf.png",
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "description": "Descrição detalhada do card selecionado... Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false,
+            "publicity": "https://user-images.githubusercontent.com/12499627/145678198-40b8cc7e-aea9-4c3e-96a9-3b4eb625ec9f.png"
+        }
+    ],
+    "reads": [
+        {
+            "id": 8,
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false
+        },
+        {
+            "id": 9,
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": true
+        },
+        {
+            "id": 10,
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false
+        },
+        {
+            "id": 11,
+            "date": "11/12/2021",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing hendrerit risus, volutpat imperdiet quam vulputate sit amet.",
+            "detach": false
+        }
+    ]
+}

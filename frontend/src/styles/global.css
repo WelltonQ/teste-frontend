@@ -1,0 +1,52 @@
+:root {
+    --background: #FFFFFF;
+    --gray: #6A6759;
+    --pink: #E961A4;
+    --rosewood: #8F2047;
+    --rose: #DB7D8A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: var(--background);
+    -webkit-font-smoothing: antialiased;
+
+}
+
+body, button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.container {
+    padding: 3rem 7rem;
+}
+
+@media screen and (max-width: 990px) {
+    .container {
+        padding: 3rem 1rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    svg.footer {
+        margin: 0 auto;
+    }
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    cursor: pointer;
+}
+
+li {
+    list-style: none
+}

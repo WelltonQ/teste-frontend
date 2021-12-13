@@ -29,17 +29,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 ## :closed_book: Executar
 
-### Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), Além disso é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 ### Clone este repositório.
 
 ```bash
 ## Backend
 
 # Entre na pasta do backend
-$ cd teste-backend
+$ cd backend
 
 # Instale as dependências
 $ yarn install
@@ -54,7 +50,7 @@ $ yarn start
 ## Frontend
 
 # Entre na pasta do frontend
-$ cd teste-frontend
+$ cd frontend
 
 # Instale as dependências
 $ yarn install
@@ -62,7 +58,7 @@ $ yarn install
 # Execute aplicação
 $ yarn start
 
-# A API vai está rodando na porta 3000 - acesse <http://localhost:3000>
+# O frontend vai está rodando na porta 3000 - acesse <http://localhost:3000>
 ```
 
 ---
